@@ -234,17 +234,7 @@ class AutoACC():
 # # (Error at cookie setting IDK why, I think it error at variable or datatype or maybe it error at space text)
 #
 #
-#
-# (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-# (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-# (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-# (┬┬﹏┬┬) (┬┬﹏┬┬) ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-# (┬┬﹏┬┬) ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-# ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-#   ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-#       ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬) (┬┬﹏┬┬)
-#           ===== WARNING WARNING ===== (┬┬﹏┬┬) (┬┬﹏┬┬)
-#               ===== WARNING WARNING ===== (┬┬﹏┬┬)
+
 #                   ===== WARNING WARNING =====
 #                   ===== WARNING WARNING =====
 #                   ===== WARNING WARNING =====

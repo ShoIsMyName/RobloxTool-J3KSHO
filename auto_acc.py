@@ -230,7 +230,7 @@ class AutoACC():
 # If you want to Get Cookie fast way then call function -> auto_acc.AutoACC(user="YOUR_USERNAME",passwd="YOUR_PASSWORD").getCookie()
 #
 #
-# If you want more roblox ACC follower then call function -> auto_acc.AutoACC(url=YOUR_ACCOUNT_LINK_PROFILE).AccFollower()   
+# If you want more roblox ACC follower then call function -> auto_acc.AutoACC(url="YOUR_ACCOUNT_LINK_PROFILE").AccFollower()   
 # # (Error at cookie setting IDK why, I think it error at variable or datatype or maybe it error at space text)
 #
 #

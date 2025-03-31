@@ -10,3 +10,7 @@ import auto_acc
 
 # 3. Auto roblox account follower
 #auto_acc.AutoACC(url="YOUR_ACCOUNT_LINK_PROFILE").AccFollower()
+
+
+# THE FULL CODE IS AT
+https://github.com/Sho2007/RobloxTool-J3KSHO/blob/main/auto_acc.py
